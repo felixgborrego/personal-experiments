@@ -1,4 +1,4 @@
-package com.fgb.binarysearch;
+package com.fgb;
 
 import java.util.List;
 import java.util.Optional;

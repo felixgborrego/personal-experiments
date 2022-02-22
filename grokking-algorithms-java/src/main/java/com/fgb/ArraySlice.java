@@ -1,4 +1,4 @@
-package com.fgb.binarysearch;
+package com.fgb;
 
 public class ArraySlice {
 

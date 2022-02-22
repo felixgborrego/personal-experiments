@@ -1,4 +1,4 @@
-package com.fgb.binarysearch;
+package com.fgb;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
