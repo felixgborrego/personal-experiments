@@ -1,0 +1,8 @@
+# Configure jvm options used by SBT
+-Xms10g
+-Xmx10g
+# Default SBT configuration used by github action.
+# More info at https://www.scala-sbt.org/1.x/docs/GitHub-Actions-with-sbt.html#Custom+JVM+options
+-Dfile.encoding=UTF-8
+-Xss4M
+-XX:ReservedCodeCacheSize=128m
